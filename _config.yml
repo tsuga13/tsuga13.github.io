@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 navigation:
   - name: 关于
     url: /about
-  - name: 栏目分类
+  - name: 书目分类
     url: /tags
 
 # Includes an icon in the footer for each username you enter
